@@ -212,11 +212,79 @@ section {
     margin: 5% 20% 0 20%;
 }
 
+.Project2{
+    max-width: 330px;
+}
+
 .Project1 img{
     width: 600px;
     height: 400px;
+    /* position: relative; */
+}
+.Project1:hover .image__overlay{
+    position: relative;
+    right: 10px;
+    display: block;
+    visibility: visible;
+    opacity: 1;
+    color: white;
+    background-color: gray;
 }
 
+.Project2:hover .image__overlay{
+    position: relative;
+    right: 10px;
+    display: block;
+    visibility: visible;
+    opacity: 1;
+    color: white;
+    background-color: gray;
+}
+.Project3:hover .image__overlay{
+    position: relative;
+    right: 10px;
+    display: block;
+    visibility: visible;
+    opacity: 1;
+    color: white;
+    background-color: gray;
+}
+.Project4:hover .image__overlay{
+    position: relative;
+    right: 10px;
+    display: block;
+    visibility: visible;
+    opacity: 1;
+    color: white;
+    background-color: gray;
+}
+.Project5:hover .image__overlay{
+    position: relative;
+    right: 10px;
+    display: block;
+    visibility: visible;
+    opacity: 1;
+    color: white;
+    background-color: gray;
+}
+.Project6:hover .image__overlay{
+    position: relative;
+    right: 10px;
+    display: block;
+    visibility: visible;
+    opacity: 1;
+    color: white;
+    background-color: gray;
+}
+.Project7:hover .image__overlay{
+    position: relative;
+    right: 10px;
+    display: block;
+    visibility: visible;
+    opacity: 1;
+    color: white;
+    background-color: gray;
+}
 
 .side-projects{
     margin: 0 0 0 20%;
