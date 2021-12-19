@@ -100,6 +100,7 @@ section {
     margin: 0 0 0 20%;
     display: flex;
     flex-wrap: wrap;
+    min-width: 660px;
 }
 
 
@@ -177,6 +178,7 @@ section {
         margin: 0 0 0 35%;
         display: flex;
         flex-wrap: wrap;
+        min-width: 600px;
     }
     #contact .socials {
         display: flex;
